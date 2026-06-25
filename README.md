@@ -75,6 +75,9 @@ Notebook içerisinde yer alan `ipywidgets` tabanlı canlı simülatör sayesinde
 2. Kampanya bütçesi kaydırma çubuğuyla belirlenir.
 3. **"Optimizasyonu Çalıştır"** butonuna basıldığında model çalışır ve anlık bütçe analizi, harcanan/kalan para, tahmini toplam beğeni, **CPL (Beğeni başına maliyet)** ve **ROI (Beğeni / $1)** metriklerini hesaplar.
 4. Çıktının altında açılan **katlanabilir sekmeler (Accordion)** içerisindeki HTML tablolarında seçilen tüm influencer'ların detaylı listesi sunulur.
+<p align="center">
+  <img src="assets/opti_ui.gif" width="800">
+</p>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🎯 OptiSponsorAI: AI-Powered Multi-Platform Influencer Campaign & Budget Optimization
+# 🎯 OptiSponsorAI: Çoklu Platform Sponsorluk Bütçesinin Yapay Zeka ve Karar Analitiği ile Optimizasyonu 
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest%20%7C%20XGBoost-orange.svg)

@@ -82,10 +82,12 @@ Notebook içerisinde yer alan `ipywidgets` tabanlı canlı simülatör sayesinde
 ```text
 OptiSponsorAI/
 │
-├── OptiSponsorAI.ipynb                   # Ana veri bilimi ve optimizasyon notebook'u
-├── gemini_label_tiktok.py                # Google Gemini API kategorilendirme aracı
-├── internet-users-by-country-2024.csv    # Küresel internet penetrasyon veri seti
-└── social_media_dataset.csv              # Ham sosyal medya veri seti
+├── OptiSponsorAI.ipynb                     # Ana veri bilimi ve optimizasyon notebook'u
+├── gemini_label_tiktok.py                  # Google Gemini API kategorilendirme aracı
+├── internet-users-by-country-2024.csv      # Küresel internet penetrasyon veri seti (Makro veri)
+├── social media influencers - instagram.csv # Gerçek Instagram influencer veri seti (1000 satır)
+├── social media influencers - tiktok.csv    # Zenginleştirilmiş gerçek TikTok influencer veri seti (1000 satır)
+└── social media influencers - youtube.csv   # Gerçek YouTube influencer veri seti (1000 satır)
 ```
 
 ---

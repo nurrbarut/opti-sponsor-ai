@@ -5,7 +5,7 @@
 ![Optimization](https://img.shields.io/badge/Optimization-Knapsack%20Algorithm-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
-**OptiSponsorAI**, Instagram, TikTok ve YouTube platformlarındaki influencer etkileşimlerini makine öğrenmesiyle tahmin ederek, işletmelerin sınırlı sponsorluk/reklam bütçelerini yöneylem araştırmasında yaygın olarak kullanılan Knapsack modelleriyle en yüksek verime (ROI) ulaştıracak şekilde planlayan uçtan uca bir karar analitiği ve optimizasyon sistemidir.
+**OptiSponsorAI**; Instagram, TikTok ve YouTube platformlarındaki influencer etkileşimlerini makine öğrenmesiyle tahmin ederek, işletmelerin sınırlı sponsorluk/reklam bütçelerini yöneylem araştırmasında yaygın olarak kullanılan Knapsack modelleriyle en yüksek verime (ROI) ulaştıracak şekilde planlayan uçtan uca bir karar analitiği ve optimizasyon sistemidir.
 
 ---
 

@@ -89,4 +89,4 @@ OptiSponsorAI/
 ```
 
 ---
-**Geliştirici:** Beyza Nur Barut | [GitHub Profilin](https://github.com/nurrbarut)
+**Geliştirici:** Beyza Nur Barut
